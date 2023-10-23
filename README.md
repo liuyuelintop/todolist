@@ -10,6 +10,8 @@ Learning Materials:
 
 [Npm uuid Docs](https://www.npmjs.com/package/uuid)
 
+[json-server](https://github.com/typicode/json-server#getting-started)
+
 ## Set Up
 
 ### install uuid
