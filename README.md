@@ -43,20 +43,22 @@ Learning Materials:
  For example:  db.json
 
 ```
-[
-  {
-    "id": "25764d33-5f68-4c0f-998c-61345531282b",
-    "task": "simple task1",
-    "completed": false,
-    "isEditing": false
-  },
-  {
-    "id": "cf452be3-cafe-4dfe-8a0b-88179c9ba51a",
-    "task": "simple task2",
-    "completed": false,
-    "isEditing": false
-  }
-]
+{
+  "todos": [
+    {
+      "task": "simple task1",
+      "isEditing": false,
+      "id": "25764d33-5f68-4c0f-998c-61345531282b",
+      "completed": true
+    },
+    {
+      "task": "simple task2",
+      "isEditing": false,
+      "id": "cf452be3-cafe-4dfe-8a0b-88179c9ba51a",
+      "completed": false
+    }
+  ]
+}
 ```
 
 
